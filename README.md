@@ -19,3 +19,4 @@ import get_frames
 f= get_frames.GetRecogniseFramesFromVideo()
 f.recognize_video("test_vid.mp4")
 ```
+По результаты работы будет сохранено csv с таймингами и обработанное видео
